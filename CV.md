@@ -13,4 +13,4 @@ My goal is to expand my knowledge in program sphere. I try to improve myself eve
 My English level is B2. I know such programmer languages as C++, JS, Java, C#, HTML, CSS, PHP.
 
 
-![](https://github.com/NickRave/SVCHVS/blob/lab-1/photo_2022-09-07_14-44-23-.jpg)
+![](https://github.com/NickRave/SVCHVS/blob/lab-1/photo_2022-09-07_14-44-23-180x180.jpg)
